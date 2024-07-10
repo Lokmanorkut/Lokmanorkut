@@ -29,4 +29,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lokmanorkut/Lokmanorkut/output/github-contribution-grid-snake.svg">
 </picture>
 
-![MasterHead](https://apod.nasa.gov/apod/image/2407/Ngc602_ChandraHubbleSpitzer_3600.jpg)
