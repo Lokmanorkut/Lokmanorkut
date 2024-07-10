@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ros**
 
-- 📫 How to reach me **lkmnrkt@gmail.com**
+- 📫 How to reach me: **lkmnrkt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
