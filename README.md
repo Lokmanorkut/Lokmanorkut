@@ -1,4 +1,4 @@
-
+![MasterHead](https://cdn.pixabay.com/photo/2023/07/18/15/02/banner-8135029_1280.png)
 
 <h1 align="center">Hi 👋, I'm Lokman Önder Örküt</h1>
 <h3 align="center">I am a computer engineering student who is interested in coding and learning.</h3>
