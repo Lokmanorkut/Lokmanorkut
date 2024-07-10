@@ -1,4 +1,4 @@
-![MasterHead](https://apod.nasa.gov/apod/image/2407/Ngc602_ChandraHubbleSpitzer_3600.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Lokman Önder Örküt</h1>
 <h3 align="center">I am a computer engineering student who is interested in coding and learning.</h3>
@@ -28,3 +28,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lokmanorkut/Lokmanorkut/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lokmanorkut/Lokmanorkut/output/github-contribution-grid-snake.svg">
 </picture>
+
+![MasterHead](https://apod.nasa.gov/apod/image/2407/Ngc602_ChandraHubbleSpitzer_3600.jpg)
