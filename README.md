@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokmanorkut&label=Profile%20views&color=0e75b6&style=flat" alt="lokmanorkut" /> </p>
 
-- 🌱 I’m currently learning **C,C++,Yolo**
+- 🌱 I’m currently learning **C++,Ros,RLC**
 
 - 📫 How to reach me: **lkmnrkt@gmail.com**
 
